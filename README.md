@@ -1,4 +1,4 @@
-# ahk-glow-esp-csgo
+# AutoHotKey Glow ESP for CSGO
 
 
 Controls (Numpad):
